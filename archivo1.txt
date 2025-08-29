@@ -3,8 +3,4 @@ Este es mi archivo inicial local
 
 #Archivo modificado en github por Estudiante2
 
-<<<<<<< HEAD
-#Archivo modificado de manera Local0337
-=======
-#Cambio realizado en GitHub (Rama main)
->>>>>>> 3f08990fa92f3c23b5704c2221259fdbed04dd01
+
